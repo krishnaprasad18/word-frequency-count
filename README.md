@@ -1,5 +1,5 @@
-
 WORD-FREQUENCY-COUNT APPLICATION.
+
 NETLIFY LINK: https://sage-ganache-4a2bb9.netlify.app
 
 This is a Word Frequency Count application built using React.js. It allows you to fetch the contents of a text file, calculate the frequency of each word in the text, and plot a histogram of the 20 most occurring words. Additionally, it provides an option to export the histogram data as a CSV file.
